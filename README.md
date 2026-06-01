@@ -18,3 +18,20 @@ If you are developing a production application, we recommend using TypeScript wi
 # NetflixGPT
 
 A sample react Netflix App with GPT integration with great movies suggestion😎
+
+- Create React App using vite
+- Configured Tailwind CSS
+
+# Features
+
+- Login/Sign Up
+- Browse landing page
+  - Header
+  - Main Movie
+    - Trailer in Background
+    - Title and Description
+    - Movie and Suggestion
+      - Movies \* N
+- Netflix GPT
+  - Search Bar
+  - Movies Suggestions
